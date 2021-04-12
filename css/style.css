@@ -1,0 +1,9 @@
+@media(max-width:720px) {
+    .css-row {
+        margin-top: -100px;
+    }
+    .css-img {
+        width: 300px;
+        height: auto;
+    }
+}

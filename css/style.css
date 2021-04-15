@@ -15,4 +15,6 @@
     }
 }
 
-.col-sm-4 {}
+.css-hover:hover {
+    box-shadow: 0 0 10px rgb(9, 218, 255);
+}
